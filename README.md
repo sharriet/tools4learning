@@ -1,2 +1,32 @@
 # tools4learning
-A collection of various tools which can support autonomous, systemic learning at various different levels.
+A collection of tools and information sources which can support autonomous, systemic learning at various different levels.
+
+Still a work in progress - feel free to suggest additions!
+
+## Tools for individuals
+
++ Strategic learning / learning management:
+  - Sorrel Harriet, [Personal Learning Backlog Template](miro.com/miroverse/personal-learning-backlog/). Miroverse.
++ Reflective practice:
+  + Sorrel Harriet (Learning-as-a-Service) [Feedback Tools](https://www.laas.consulting/resources/feedback-tools.pdf) - a selection of tools to support giving and receiving feedback
+  + University of Edinburgh, [Reflector's Toolkit](https://www.ed.ac.uk/reflection/reflectors-toolkit) - great selection of frameworks to support reflection
+  + Sorrel Harriet (Learning-as-a-Service) [A Narrative Framework for Reflection](https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf) - a tool to support reflection on experience
++ Causal thinking:
+  - [thesystemsthinker.com/causal-loop-construction-the-basics/](https://thesystemsthinker.com/causal-loop-construction-the-basics/)
+  - [researchgate.net/publication/258261003_Introduction_to_system_thinking_and_causal_loop_diagrams](researchgate.net/publication/258261003_Introduction_to_system_thinking_and_causal_loop_diagrams)
+
+## Tools for teams and focused learning communities
+
++ [Liberating Structures](https://www.liberatingstructures.com/) - collection of facilitation patterns which can support group learning
++ [funretrospectives](https://www.funretrospectives.com/) - many variants on the team retrospective format, for team learning and awareness building
++ Sorrel Harriet (Learning-as-a-Service) [4As for Reflective Questioning](https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf) - a tool and guidance to support the use of reflective questioning during your interactions
++ Webber, E. (2016) [Building Successful Communities of Practice](https://emilywebber.co.uk/building-successful-communities-of-practice/). Tacit.
++ Matthew Skelton (2018) [Team Cognitive Load Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment) - a template to help you assess team cognitive load (which needs managing in order to create conditions for learning.)
+
+## Tools for larger systems and leaders
+
++ Hicks, C. M., Lee, C. S., Ramsey, M. Developer Thriving: four sociocognitive factors that create resilient productivity on software teams. IEEE Software (2024). 
++ Sauermann, V., Plummer, T. (2023) [Community-led Learning](https://dl.acm.org/doi/abs/10.1145/3628034.3628055). Proceedings of the 28th European Conference on Pattern Languages of Programs, 1, 1--5.
++ Abi Noda, Margaret-Anne Storey, Nicole Forsgren, and Michaela Greiler. 2023. [DevEx: What Actually Drives Productivity: The developer-centric approach to measuring and improving productivity](https://queue.acm.org/detail.cfm?id=3595878). 21(2), 20--39.
++ Burns, M., Griffiths, A. (2018) [The Learning Imperative](https://www.learningimperative.co.uk/) - book and website with resources for improving organisational learning
++ [DX Reports & Guides](https://getdx.com/resources/) - guides on how to measure developer experience and other useful metrics to support learning and systems awareness
