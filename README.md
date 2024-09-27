@@ -14,6 +14,8 @@ Still a work in progress - feel free to suggest additions!
 + Causal thinking:
   - [thesystemsthinker.com/causal-loop-construction-the-basics/](https://thesystemsthinker.com/causal-loop-construction-the-basics/)
   - [researchgate.net/publication/258261003_Introduction_to_system_thinking_and_causal_loop_diagrams](researchgate.net/publication/258261003_Introduction_to_system_thinking_and_causal_loop_diagrams)
++ Automated code checking and AI assisted development tooling:
+  - [FirstMate](https://firstmate.io) - an automated code checking tool which reviews code against specified guidelines and offers feedback.
 
 ## Tools for teams and focused learning communities
 
