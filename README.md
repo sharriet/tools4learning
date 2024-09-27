@@ -25,7 +25,7 @@ You might also be interested in the [Continuous Learning Toolkit](https://github
 
 + [Liberating Structures](https://www.liberatingstructures.com/) - collection of facilitation patterns which can support group learning
 + [funretrospectives](https://www.funretrospectives.com/) - many variants on the team retrospective format, for team learning and awareness building
-+ Sorrel Harriet (Learning-as-a-Service) [4As for Reflective Questioning](https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf) - a tool and guidance to support the use of reflective questioning during your interactions
++ Sorrel Harriet (Learning-as-a-Service) [Framework for Reflective Questioning](https://www.laas.consulting/resources/4As-reflective-questioning-framework.pdf) - a tool and guidance to support the use of reflective questioning during team interactions. Closely modelled on work by [Rush and Shelden](https://www.amazon.co.uk/Early-Childhood-Coaching-Handbook/dp/1598570676) (2011). 
 + Webber, E. (2016) [Building Successful Communities of Practice](https://emilywebber.co.uk/building-successful-communities-of-practice/). Tacit.
 + Matthew Skelton (2018) [Team Cognitive Load Assessment](https://github.com/TeamTopologies/Team-Cognitive-Load-Assessment) - a template to help you assess team cognitive load (which needs managing in order to create conditions for learning.)
 + Sorrel Harriet (2023) [Feedback through the Lens of Observability](https://miro.com/app/board/uXjVMofy2I8=/) - activity and tool to help your team think more holistically about feedback. Based on a DevOps Days London 2023 Ignite Talk, [Want to build a feedback culture? First focus on observability](https://www.youtube.com/watch?v=hWJabHSiDXI). Password: laasdevops
