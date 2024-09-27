@@ -3,6 +3,8 @@ A collection of tools and information sources which can support autonomous, syst
 
 Still a work in progress - feel free to suggest additions!
 
+You might also be interested in the [Continuous Learning Toolkit](https://github.com/sharriet/periodic-table-of-learning) - a simple web interface to explore social and technical tools for learning. What gets added to this repo might find its way into the toolkit.
+
 ## Tools for individuals
 
 + Strategic learning / learning management:
