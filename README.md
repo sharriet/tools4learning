@@ -3,7 +3,7 @@ A collection of links to tools and information sources which can support autonom
 
 Still a work in progress - feel free to suggest additions!
 
-You might also be interested in the [Continuous Learning Toolkit](https://github.com/sharriet/periodic-table-of-learning) - a simple web interface to explore social and technical tools for learning. What gets added to this repo might find its way into the toolkit.
+You might also be interested in the [Continuous Learning Toolkit](https://github.com/sharriet/continuous-learning-toolkit) - a simple web interface to explore social and technical tools for learning. What gets added to this repo might find its way into the toolkit.
 
 **Please note:** This is just a collection of links to third party tooling, books and publicly available resources, many of which may be subject to copyright law, or require a license or subscription. Remember to check the terms of use before using or redistributing a resource.
 
